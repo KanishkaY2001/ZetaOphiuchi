@@ -9,4 +9,4 @@ You may find the website link below:
 - https://zetaophiuchi.lovestoblog.com/
 
 If you are interested in space, stars or want to see how I've developed this website, feel free to check out my website!
-You may find all relevant project files in the repository itself, exported using __WPVivid__.
+You may find all relevant project files in the repository itself, exported using the __All-in-one WP Migration__ plugin.
